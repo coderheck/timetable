@@ -1,5 +1,18 @@
-body{background-color:powderblue;}
-#morningTT{height: 46vw;}
-#afternoonTT{width: 40vw;}
-#TermsTests{width: 40vw;}
-#excel{width: 80vw; height: 46vw;}
+body{
+	background-color:powderblue;
+}
+#morningTT{
+	height: 46vw;
+	overflow: scroll;
+}
+#afternoonTT{
+	width: 40vw;
+	overflow: scroll;
+}
+#TermsTests{
+	width: 40vw;
+}
+#excel{
+	width: 80vw;
+	height: 46vw;
+}

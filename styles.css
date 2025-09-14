@@ -9,6 +9,24 @@ body{
 	width: 40vw;
 	overflow: scroll;
 }
+.morningTTContainer {
+    width: 90vw;
+    height: 80vh;
+    overflow: scroll;
+}
+.morningTTContainer img {
+    zoom: 50%;
+    display: block;
+}
+.afternoonTTContainer{
+	width: 75vw;
+    height: 50vh;
+	overflow: scroll;
+}
+.afternoonTTContainer img{
+	width: 75vw;
+    height: auto;
+}
 #TermsTests{
 	width: 40vw;
 }
@@ -16,3 +34,4 @@ body{
 	width: 80vw;
 	height: 46vw;
 }
+

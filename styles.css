@@ -1,5 +1,5 @@
 body{
-	background-color:powderblue;
+	background-color: powderblue;
 }
 #morningTT{
 	height: 46vw;
@@ -20,10 +20,10 @@ body{
 }
 .afternoonTTContainer{
 	width: 75vw;
-    height: 50vh;
+    height: 40vh;
 	overflow: scroll;
 }
-.afternoonTTContainer img{
+.afternoonTTContainer img {
 	width: 75vw;
     height: auto;
 }
@@ -41,5 +41,10 @@ body{
 }
 .substituteTeachersTT {
 	width: 75vw;
+	height: 40vh;
 	overflow: scroll;
+}
+.substituteTeachersTT img {
+	width: 75vw;
+	height: auto;
 }

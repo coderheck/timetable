@@ -15,7 +15,7 @@ body{
     overflow: scroll;
 }
 .morningTTContainer img {
-    zoom: 50%;
+    zoom: 65%;
     display: block;
 }
 .afternoonTTContainer{
@@ -39,4 +39,7 @@ body{
 	height: auto;
 	object-fit: contain;
 }
-
+.substituteTeachersTT {
+	width: 75vw;
+	overflow: scroll;
+}
